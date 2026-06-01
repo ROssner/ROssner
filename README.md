@@ -21,8 +21,8 @@ transitioning into AI Engineering — 6+ years in infrastructure meets ML.
 
 ## Things I'm building
 
--  ML & AI projects — Jupyter notebooks, LLMs, RAG systems
-- DevOps automation scripts — Bash, Python, Terraform
+-  ML & AI projects Jupyter notebooks, LLMs, RAG systems
+- DevOps automation scripts Bash, Python, Terraform
 
 ## Contact
 
