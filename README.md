@@ -5,10 +5,10 @@ transitioning into AI Engineering — 6+ years in infrastructure meets ML.
 
 ## About me
 
-- 🏢 Currently working at DXC Technology as Sr. Analyst III Infrastructure Services
-- 🧠 IBM AI Engineering Professional Certificate — PyTorch, LLMs, RAG, Fine-tuning
-- 🚢 Certified Kubernetes Administrator (CKA)
-- 🎓 Bachelor's in Computer Science @ University of the People (in progress)
+- Currently working at DXC Technology as Sr. Analyst III Infrastructure Services
+- IBM AI Engineering Professional Certificate — PyTorch, LLMs, RAG, Fine-tuning
+- Certified Kubernetes Administrator (CKA)
+- Bachelor's in Computer Science @ University of the People (in progress)
 - 🤺 I like fencing and gastronomy 🐀
 
 ## Skills
