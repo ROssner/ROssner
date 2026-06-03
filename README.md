@@ -9,7 +9,7 @@ transitioning into AI Engineering — 6+ years in infrastructure meets ML.
 - IBM AI Engineering Professional Certificate — PyTorch, LLMs, RAG, Fine-tuning
 - Certified Kubernetes Administrator (CKA)
 - Bachelor's in Computer Science @ University of the People (in progress)
-- 🤺 I like fencing and gastronomy 🐀
+- I like fencing and gastronomy 🐀🤺
 
 ## Skills
 
