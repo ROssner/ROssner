@@ -1,7 +1,6 @@
 ## Que tal muy buenas 👋
 
 My name is Agustín, I'm from Argentina and I'm an SRE 
-transitioning into AI Engineering — 6+ years in infrastructure meets ML.
 
 ## About me
 
